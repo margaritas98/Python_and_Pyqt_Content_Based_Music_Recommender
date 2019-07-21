@@ -1,13 +1,6 @@
-Data Science Group project 4 Overview
 
-By: 
-Jerry Wang/ 02304430
-Kunzi Xie/15283483
-Junjie Zong/18034496
-
-
-Project 4 was developed in Python version 3.5 environment, and work well on MacOS, 
-But partly functional on Windows environment, due to the Python library issue.
+This project was developed in Python version 3.5 environment, and work well on MacOS, 
+But do not fully functional on Windows environment, due to a Python library issue.
 
 Python packages used for the project are listed below:
 
